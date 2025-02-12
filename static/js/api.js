@@ -13,7 +13,6 @@ uploadButton.addEventListener('click', () => {
         alert('請選擇一張照片');
         return;
     }
-
     // 建立 FormData 來傳遞文件
     const formData = new FormData();
     formData.append('file', file); // 'file' 是 API 端點預期的參數名稱
