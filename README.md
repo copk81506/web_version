@@ -1,4 +1,4 @@
-﻿# web_version
+﻿# web_version 完整版
 操作說明
 啟動app.py即可使用
 .
