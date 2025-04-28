@@ -9,4 +9,4 @@ web_version 完整版 是為了以下專題所建立的網頁版垃圾管理系�
 
 垃不垃圾(labulaji) 與垃圾管理系統 專題介紹影片連結：https://www.youtube.com/watch?v=vFN9moar5CE
 
-投影片連結：https://www.canva.com/design/DAGccYdw8_8/i3Ymec4fNVNC4hPoA4vRDg/view?utm_content=DAGccYdw8_8&utm_campaign=designshare&utm_medium=link&utm_source=viewer
+投影片連結(第48頁開始為網頁架構與介紹)：https://www.canva.com/design/DAGccYdw8_8/i3Ymec4fNVNC4hPoA4vRDg/view?utm_content=DAGccYdw8_8&utm_campaign=designshare&utm_medium=link&utm_source=viewer
